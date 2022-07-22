@@ -1,0 +1,33 @@
+PRIMEIROS COMANDO GIT
+Iniciar Git: git init
+Iniciar um versionamento: git add
+criar um commit: git commit
+
+Exemplo Fácil e Prático:
+
+Entrar na Pasta específica destinada aos trabalhos da DIO, selecionar Git Bash dentro dessa pasta:
+Criar uma pasta usando o comando: 
+mkdir dio-desafio-github-primeiro-repositorio
+usar o comando ls (para listar os itens inclusive a pasta recém criada)
+cd dio-desafio-github-primeiro-repositorio
+
+
+Comandos para adicionar a pasta no Github a sequencia de comandos são necessários:
+
+git init (iniciar repositório)
+
+ls -a
+cd . git/
+list
+git config --global user email"seu e-mail"
+git config --global user.name 
+git add
+git commit -m "colocar nome para organizar"
+git push origin main
+
+
+
+
+
+Link para download do GIT 
+https://git-scm.com/downloads
